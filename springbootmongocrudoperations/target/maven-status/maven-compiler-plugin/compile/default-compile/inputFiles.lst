@@ -1,0 +1,6 @@
+/home/gilmario/github/gilmar/spring-boot/springbootmongocrudoperations/src/main/java/br/com/gilmarioarantes/springbootmongocrudoperations/service/Employeeserviceimpl.java
+/home/gilmario/github/gilmar/spring-boot/springbootmongocrudoperations/src/main/java/br/com/gilmarioarantes/springbootmongocrudoperations/model/Employee.java
+/home/gilmario/github/gilmar/spring-boot/springbootmongocrudoperations/src/main/java/br/com/gilmarioarantes/springbootmongocrudoperations/dao/EmployeeDAO.java
+/home/gilmario/github/gilmar/spring-boot/springbootmongocrudoperations/src/main/java/br/com/gilmarioarantes/springbootmongocrudoperations/service/Employeeservice.java
+/home/gilmario/github/gilmar/spring-boot/springbootmongocrudoperations/src/main/java/br/com/gilmarioarantes/springbootmongocrudoperations/controller/Employeecontroller.java
+/home/gilmario/github/gilmar/spring-boot/springbootmongocrudoperations/src/main/java/br/com/gilmarioarantes/springbootmongocrudoperations/MyApplication.java

@@ -1,0 +1,6 @@
+br/com/gilmarioarantes/springbootmongocrudoperations/controller/Employeecontroller.class
+br/com/gilmarioarantes/springbootmongocrudoperations/MyApplication.class
+br/com/gilmarioarantes/springbootmongocrudoperations/dao/EmployeeDAO.class
+br/com/gilmarioarantes/springbootmongocrudoperations/model/Employee.class
+br/com/gilmarioarantes/springbootmongocrudoperations/service/Employeeserviceimpl.class
+br/com/gilmarioarantes/springbootmongocrudoperations/service/Employeeservice.class
