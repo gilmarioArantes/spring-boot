@@ -1,1 +1,1 @@
-20/09/2023 → 18 → próxima seção: Managing application dependencies
+20/09/2023 → 18 (+19) → próxima seção: Managing application dependencies
