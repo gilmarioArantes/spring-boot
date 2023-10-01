@@ -29,4 +29,16 @@ public class HomeController {
         videoService.create(newVideo);
         return "redirect:/";
     }
+
+    @GetMapping("/react")
+    public String react() {
+        return "react";
+    }
+
+    @PostMapping("/multi-field-search")
+    public String multiFieldSearch(@ModelAttribute VideoSearch search, Model model){
+        List<VideoEntity> searchResults = videoService.search(search);
+        model.addAttribute("video", searchResults);
+        return "index";
+    }
 }

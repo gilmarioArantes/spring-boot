@@ -1,3 +1,4 @@
 20/09/2023 → 18 (+19) → próxima seção: Managing application dependencies
 26/09/2023 -> 49 -> próxima seçao: Leveraging templates to create content
-30/09/023 -> até 44/63 -> próxima seção: Hooking in Node.js to a Spring Boot web app
+30/09/2023 -> até 44/63 -> próxima seção: Hooking in Node.js to a Spring Boot web app
+01/10/2023 -> até 65/84 -> próxima seção: Using custom finders 
