@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootmongocrudoperations" />
+        <module name="spring-boot-journal" />
+        <module name="springBoot303" />
+        <module name="springboot-helloworld-application" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-journal" target="1.5" />
+      <module name="springboot-helloworld-application" target="1.5" />
+      <module name="springBoot303" target="18" />
+      <module name="springbootmongocrudoperations" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

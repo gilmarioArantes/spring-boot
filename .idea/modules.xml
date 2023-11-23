@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-journal/spring-boot-journal.iml" filepath="$PROJECT_DIR$/spring-boot-journal/spring-boot-journal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot303/springBoot303.iml" filepath="$PROJECT_DIR$/springBoot303/springBoot303.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-helloworld-application/springboot-helloworld-application.iml" filepath="$PROJECT_DIR$/springboot-helloworld-application/springboot-helloworld-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmongocrudoperations/springbootmongocrudoperations.iml" filepath="$PROJECT_DIR$/springbootmongocrudoperations/springbootmongocrudoperations.iml" />
+    </modules>
+  </component>
+</project>
